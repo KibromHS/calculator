@@ -1,0 +1,80 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CountryFlagList",
+            "request": "launch",
+            "mainClass": "CountryFlagList",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "TicTacToe",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ScientificCalculator",
+            "request": "launch",
+            "mainClass": "ScientificCalculator",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "AdvCalculator",
+            "request": "launch",
+            "mainClass": "AdvCalculator",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "Calc",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CircleRectangle",
+            "request": "launch",
+            "mainClass": "CircleRectangle",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ServerSide",
+            "request": "launch",
+            "mainClass": "ServerSide",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "HandlerClasses",
+            "request": "launch",
+            "mainClass": "HandlerClasses",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "fxproject_18bddc5c",
+            "vmArgs": "--module-path \"C:/Users/pc/openjfx-21.0.1_windows-x64_bin-sdk/javafx-sdk-21.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
